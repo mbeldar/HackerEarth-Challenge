@@ -1,8 +1,11 @@
 abc
 3
 0 0 L
-2 2 L
+
+2 2 R
+
 0 2 R
+
 
 1) will move 0th char to Left
 2) 2 2 Will move 2nd char to left eg. 'b' will become 'a'
